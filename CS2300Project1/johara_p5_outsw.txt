@@ -1,0 +1,1 @@
+Dot product of s & w = 6

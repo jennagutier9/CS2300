@@ -1,0 +1,1 @@
+Dot product of r & s = -3
